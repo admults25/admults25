@@ -1,7 +1,7 @@
 # 🌌 **Great to See You, Explorer** 🚀
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlybTVkYWR0dm9ramRkeGRhZTh4eDByMWZydjJra3BieGxob2lzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.webp" alt="Black Hole GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYzZXZncHU5aG1kOHphMWhldnl0bTRxb3hlbTNkcHF2MTA2NGtsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEYFeE4wJ6jdDVBiiIM/giphy.webp" alt="Advanture" />
 </p>
 
 ### 🪐 About Me
