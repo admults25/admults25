@@ -16,7 +16,7 @@ Merhaba! Ben admults25, kod evreninin geniş dünyasında bir kaşifim. Görevim
 ### 🌠 Kodun Takımyıldızları
 Katkılarım, gece gökyüzündeki yıldızlar gibidir—her biri GitHub evrenini biraz daha aydınlatır. İşte katkı grafiğimdeki kozmik yolculuğuma bir bakış:
 
-![GitHub Katkıları](https://github.com/admults25?tab=repositories.png)
+[![GitHub Repos](https://img.shields.io/badge/My%20Repositories-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/admults25?tab=repositories)
 
 ### 📫 İletişim
 - **Yıldızlararası Sinyal:** [admults25@space.com](mailto:admults25@space.com)
