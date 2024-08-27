@@ -21,10 +21,9 @@ Katkılarım, gece gökyüzündeki yıldızlar gibidir—her biri GitHub evrenin
 [![GitHub Repos](https://img.shields.io/badge/My%20Repositories-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/admults25?tab=repositories)
 
 ### 📫 İletişim
-- **Yıldızlararası Sinyal:** [admults25@space.com](mailto:admults25@gmail.com)
+- **Yıldızlararası Sinyal:** [admults25@gmail.com](mailto:admults25@gmail.com)
 - **Dünya Tabanlı Sosyal Bağlantılar:**
   - [LinkedIn](https://www.linkedin.com/in/admults25/)
   - [Twitter](https://twitter.com/admults25)
 
-### ✨ Birlikte Keşfedelim!
-Kodlama yıldızları arasında bu kozmik yolculukta bana katılın. Birlikte, yeni dünyalar keşfedebilir ve uzayın ve zamanın sınırlarını aşan teknolojiler geliştirebiliriz!
+
