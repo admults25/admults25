@@ -5,7 +5,7 @@
 </p>
 
 ### 🪐 Hakkımda
-Merhaba, ben admults25. Yazılım geliştirme alanındaki çalışmalarımda, teknoloji ve inovasyonun sınırlarını zorlamak için sürekli olarak yeni yollar arıyorum. Kod dünyasının geniş ve keşfedilmemiş bölgelerinde araştırmalar yaparak, yenilikçi projeler geliştirmek ve teknik zorlukların üstesinden gelmek için çabalıyorum.
+  Merhaba, ben Adem Ulutaş. Şu anda blockchain teknolojileri ve akıllı kontrat geliştirme üzerine çalışıyorum. Yazılım geliştirme alanındaki bilgi ve becerilerimi bu alanda derinleştirerek, merkeziyetsiz uygulamalar ve güvenli akıllı kontratlar oluşturmayı hedefliyorum. Bunlar dışında football manager oynuyorum ve beşiktaş taraftarıyım.
 
 ### 🚀 Güncel Projem
 - **Proje Adı:** Galactic Voyager
@@ -26,5 +26,3 @@ GitHub üzerindeki projelerimi keşfetmek için aşağıdaki bağlantıya göz a
   - [LinkedIn](https://www.linkedin.com/in/admults25/)
   - [Twitter](https://twitter.com/admults25)
 
-### ✨ İş Birliği İçin
-Yazılım dünyasında yeni projeler geliştirmek ve iş birliği yapmak için her zaman açık fikirliyim. Eğer ortak projeler veya teknik danışmanlık hakkında konuşmak isterseniz, benimle iletişime geçmekten çekinmeyin.
