@@ -1,7 +1,7 @@
 # 🌌 **admults25'in Kozmik Yıldızlar Arası Gezgini'ne Hoş Geldiniz!** 🚀
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlybTVkYWR0dm9ramRkeGRhZTh4eDByMWZydjJra3BieGxob2lzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.webp)" alt="Karadelik GIF'i" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlybTVkYWR0dm9ramRkeGRhZTh4eDByMWZydjJra3BieGxob2lzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.webp" alt="Karadelik GIF'i" />
 </p>
 
 ### 🪐 Hakkımda
