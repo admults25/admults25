@@ -1,4 +1,4 @@
-# admults25'in Kozmik Deposu'na Hoş Geldiniz! 🚀
+# 🌌 **admults25'in Kozmik Yıldızlar Arası Gezgini'ne Hoş Geldiniz!** 🚀
 
 ![Karadelik GIF'i](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlybTVkYWR0dm9ramRkeGRhZTh4eDByMWZydjJra3BieGxob2lzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.webp)
 
@@ -19,7 +19,7 @@ Katkılarım, gece gökyüzündeki yıldızlar gibidir—her biri GitHub evrenin
 [![GitHub Repos](https://img.shields.io/badge/My%20Repositories-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/admults25?tab=repositories)
 
 ### 📫 İletişim
-- **Yıldızlararası Sinyal:** [admults25@space.com](mailto:admults25@space.com)
+- **Yıldızlararası Sinyal:** [admults25@space.com](mailto:admults25@gmail.com)
 - **Dünya Tabanlı Sosyal Bağlantılar:**
   - [LinkedIn](https://www.linkedin.com/in/admults25/)
   - [Twitter](https://twitter.com/admults25)
