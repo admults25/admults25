@@ -1,18 +1,26 @@
-# 💫 About Me:
-i'm currently learning smart contract and blockchain development
+# 🌌 admults25'in Kozmik Deposu'na Hoş Geldiniz! 🚀
 
+![Galaksi Banner](https://i.imgur.com/ZF6s192.jpg)
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=admults25&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=admults25&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=admults25&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🪐 Hakkımda
+Merhaba! Ben admults25, kod evreninin geniş dünyasında bir kaşifim. Görevim, yazılım geliştirme galaksileri arasında dolaşmak, öğrenmek ve yaratmaktır. İster yeni projeleri yörüngeye fırlatmak olsun, ister koddaki kara delikleri düzeltmek, her zaman yeni bir maceraya hazırım!
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=admults25&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🎶 Cosmic Vibes Playlist
+[![Spotify](https://img.shields.io/badge/Spotify-Listen%20to%20Cosmic%20Vibes-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4CaGLSvubcWJbNigWHfWDl?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>)
 
----
-[![](https://visitcount.itsvg.in/api?id=admults25&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Güncel Görevim
+- **Proje Adı:** Galactic Voyager
+- **Amacı:** Yıldızlararası iletişim için merkeziyetsiz bir uygulama oluşturmak.
+- **Durumu:** 🚧 Devam Ediyor
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌠 Kodun Takımyıldızları
+Katkılarım, gece gökyüzündeki yıldızlar gibidir—her biri GitHub evrenini biraz daha aydınlatır. İşte katkı grafiğimdeki kozmik yolculuğuma bir bakış:
+
+![GitHub Katkıları](https://github.com/admults25/admults25/blob/main/contributions.png)
+
+### 📫 İletişim
+- **Yıldızlararası Sinyal:** [admults25@space.com](mailto:admults25@space.com)
+- **Dünya Tabanlı Sosyal Bağlantılar:**
+  - [LinkedIn](https://www.linkedin.com/in/admults25/)
+  - [Twitter](https://twitter.com/admults25)
+
