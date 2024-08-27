@@ -8,8 +8,8 @@
 Hello, I'm Adem Ulutaş. I am currently working on blockchain technologies and smart contract development. My goal is to deepen my knowledge and skills in these areas to create decentralized applications and secure smart contracts. In addition to these, I play Football Manager and I am a Beşiktaş fan. 🦅
 
 ### 🚀 Current Project
-- **Project Name:** Galactic Voyager
-- **Description:** I am developing a decentralized application aimed at enhancing interstellar communication.
+- **Project Name:** Smart Contract Lottery
+- **Description:** I am developing a decentralized lottery application.
 - **Status:** 🚧 In Progress
 
 ### 🎧 Cosmic Vibes Playlist
